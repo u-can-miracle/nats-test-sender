@@ -1,0 +1,5 @@
+nats-test-sender
+
+You will see that one of the instances gets a message - https://docs.nats.io/developing-with-nats/receiving/queues
+Solution explanation - https://github.com/nestjs/nest/issues/758
+Nest custom transport - https://docs.nestjs.com/microservices/custom-transport
