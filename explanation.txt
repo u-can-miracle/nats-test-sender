@@ -3,3 +3,4 @@ nats-test-sender
 You will see that one of the instances gets a message - https://docs.nats.io/developing-with-nats/receiving/queues
 Solution explanation - https://github.com/nestjs/nest/issues/758
 Nest custom transport - https://docs.nestjs.com/microservices/custom-transport
+Strategy setup - https://github.com/nestjs/nest/blob/06d0f121696f89c76eb1ca317ef4d5e6827a20d2/sample/03-microservices/src/common/strategies/nats.strategy.ts
